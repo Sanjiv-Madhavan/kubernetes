@@ -6,3 +6,7 @@
 ## Videos about k8s Operators
 * [Creating Kubernetes Operator using operator-sdk](https://www.youtube.com/watch?v=FHjLL5e7h00)
 * [Writing a Kubernetes Operator from Scratch Using Kubebuilder - scaffolding](https://www.youtube.com/watch?v=LLVoyXjYlYM)
+
+## Books
+
+* [Extending Kubernetes: Elevate Kubernetes with Extension Patterns, Operators, and Plugins](https://www.amazon.com/Extending-Kubernetes-Extension-Patterns-Operators/dp/1484270940).
