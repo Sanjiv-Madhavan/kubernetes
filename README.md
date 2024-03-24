@@ -8,6 +8,7 @@
 * [Creating Kubernetes Operator using operator-sdk](https://www.youtube.com/watch?v=FHjLL5e7h00)
 * [Writing a Kubernetes Operator from Scratch Using Kubebuilder - scaffolding](https://www.youtube.com/watch?v=LLVoyXjYlYM)
 * [Hands-on Demo: Introduction to Kubernetes Operators](https://www.youtube.com/watch?v=wDLbqlEHuBc).
+* [Kubernetes Operator simply explained in 10 mins](https://www.youtube.com/watch?v=ha3LjlD6g7g).
 
 ## Books
 
