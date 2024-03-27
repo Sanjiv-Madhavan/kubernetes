@@ -9,6 +9,7 @@
 * [Writing a Kubernetes Operator from Scratch Using Kubebuilder - scaffolding](https://www.youtube.com/watch?v=LLVoyXjYlYM)
 * [Hands-on Demo: Introduction to Kubernetes Operators](https://www.youtube.com/watch?v=wDLbqlEHuBc).
 * [Kubernetes Operator simply explained in 10 mins](https://www.youtube.com/watch?v=ha3LjlD6g7g).
+* [Kubernetes Operators Explained](https://www.youtube.com/watch?v=i9V4oCa5f9I).
 
 ## Books
 
